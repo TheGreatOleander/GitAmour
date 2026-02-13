@@ -1,0 +1,14 @@
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gitamour"
+version = "1.0.0"
+description = "Commit with heart."
+authors = [{name = "You"}]
+dependencies = []
+
+[project.scripts]
+gitamour = "gitamour.cli:main"

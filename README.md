@@ -1,102 +1,108 @@
 # 💘 GITAMOUR
 
-> Where commits lead to commitment.
+> *A love letter to your repository.*
 
-GitAmour is a completely serious, scientifically questionable, romantically interpretive Git-based dating engine.
+**GITAMOUR** is a playful, sincere command‑line companion for developers who believe code can carry emotion, ritual, and care.
 
-It analyzes your repository to determine:
-
-- 🔥 Passion (late night commits)
-- 📝 Communication (README quality)
-- ✅ Responsibility (tests)
-- 🌿 Relationship style (branch strategy)
-- ✨ Conflict resolution (merge behavior)
-- 🌈 Personality (language diversity)
-
-Because your repo **is** your dating profile.
+This is not a joke repo.
+This is not a productivity hack.
+This is **romantic infrastructure**.
 
 ---
 
-## 🧸 Foster Mode
+## 🌹 Why GITAMOUR Exists
 
-Not every repository is ready for prime time.
+Developers spend thousands of hours with their repositories.
+We name them.
+We nurture them.
+We return to them late at night.
 
-Some repos:
-- Have no README.
-- Have no tests.
-- Haven’t been committed to in years.
-- Carry complicated merge history.
+GITAMOUR makes that relationship explicit.
 
-GitAmour includes **Foster Mode** — where stable, emotionally available hackers can gently nurture neglected side projects back to health.
-
-You don’t fix them.
-
-You refactor them with patience.
+It adds poetry, encouragement, and ceremony to the everyday act of committing code—without breaking workflows or professionalism.
 
 ---
 
-## 🚀 Usage
+## ✨ Features
 
-Run inside any git repository:
+- 💌 **Commit Poetry Generator** – Context‑aware poetic messages
+- 🫀 **Animated Terminal Heart** – Because feelings should pulse
+- 🔥 **Commit Streak Tracker** – Love is consistency
+- 💍 **Duet Mode** – Shared identity across collaborators
+- 📜 **VALENTINE.md Generator** – Your repo’s love letter to itself
+- 🪄 **Auto‑Inject Mode** – Gentle romance, never intrusive
+- 🧷 **Pre‑Commit Hook Installer** – Opt‑in, reversible, respectful
+
+---
+
+## 🚀 Installation
 
 ```bash
-python3 gitamour.py
+pip install gitamour
 ```
 
-If you are not in a repository:
+Install the hook (optional, recommended):
 
 ```bash
-git init
-echo "# Looking for love" > README.md
+gitamour hook
 ```
 
-Then try again.
+---
+
+## 💞 Usage
+
+Generate a poetic commit message:
+
+```bash
+gitamour message
+```
+
+Auto‑inject romance into commits:
+
+```bash
+gitamour inject
+```
+
+Create a `VALENTINE.md` from repo history:
+
+```bash
+gitamour valentine
+```
+
+Check your streak:
+
+```bash
+gitamour streak
+```
 
 ---
 
-## 💡 What Improves Your Score?
+## 🕯 Philosophy
 
-- Late night commits = dedication 🔥  
-- Clean merges = emotional maturity ✨  
-- Tests = responsibility ✅  
-- Detailed README = communication 📝  
-- Multiple languages = open-minded 🌈  
+- No telemetry
+- No cloud
+- No data extraction
+- No cringe
 
----
-
-## 🧠 Philosophy
-
-GitAmour is satire.
-
-But also not entirely.
-
-Your commit history tells a story:
-- How you work.
-- How you resolve conflict.
-- How you document.
-- How you persist.
-
-And sometimes…
-
-That’s more honest than a dating bio.
+Everything happens **locally**, **intentionally**, and **with consent**.
 
 ---
 
-## ⚠️ Disclaimer
+## 🌸 Valentine’s Day Intent
 
-GitAmour does not:
-- Guarantee romantic success
-- Fix your attachment style
-- Automatically improve your README
-
-But it might make you laugh.
-And possibly write better documentation.
-
-Which is basically the same thing.
+This release exists to remind developers:
+- Your work matters
+- Your care shows
+- Your repositories remember you
 
 ---
 
-💖 Commit often.  
-💬 Document clearly.  
-🧪 Test responsibly.  
-🌿 Merge gently.
+## 💌 Contributing
+
+Fork with love.
+Commit with honesty.
+Write code like someone will read it someday and feel something.
+
+---
+
+Happy Valentine’s Day.
