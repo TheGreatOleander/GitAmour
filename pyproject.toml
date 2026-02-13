@@ -5,10 +5,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gitamour"
-version = "1.0.0"
-description = "Commit with heart."
-authors = [{name = "You"}]
-dependencies = []
+version = "4.0.0"
+description = "Git-native compatibility protocol for developers."
+authors = [{name="The Great Oleander"}]
+requires-python = ">=3.8"
 
 [project.scripts]
-gitamour = "gitamour.cli:main"
+gitamour = "gitamour.cli.main:main"

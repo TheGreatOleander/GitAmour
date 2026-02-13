@@ -1,0 +1,8 @@
+# Default runtime configuration
+
+runtime:
+  mode: development
+  debug: false
+
+logging:
+  level: INFO
